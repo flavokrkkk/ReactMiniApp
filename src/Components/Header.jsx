@@ -1,6 +1,6 @@
 //Компонент Navbar
 import { Button, Container, Form, Nav, Navbar } from "react-bootstrap";
-// import logo from './typescript.png'
+import {Link} from "react-router-dom";
 
 const Header = () => {
     return (
@@ -23,10 +23,10 @@ const Header = () => {
               style={{ maxHeight: '100px' }}
               navbarScroll
             >
-              <Nav.Link href="/">Home</Nav.Link>
-              <Nav.Link href="/about">About us</Nav.Link>
-              <Nav.Link href="contacts" > Contacts</Nav.Link>
-              <Nav.Link href="/about">Blog</Nav.Link>
+              <Nav><Link to="/" className="nav-link" id="RouterNavLink" >Home</Link></Nav>
+              <Nav><Link to="/about" className="nav-link" id="RouterNavLink">About</Link></Nav>
+              <Nav><Link to="/blog" className="nav-link" id="RouterNavLink">Blog</Link></Nav>
+              <Nav><Link to="/contacts" className="nav-link" id="RouterNavLink">Contacts</Link></Nav>
             </Nav>
             <Form className="d-flex">
               <Form.Control
