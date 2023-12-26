@@ -39,6 +39,7 @@ const Header = () => {
               <Button variant="outline-danger">Search</Button>
             </Form>
           </Navbar.Collapse>
+          
         </Container>
       </Navbar>
       </>
