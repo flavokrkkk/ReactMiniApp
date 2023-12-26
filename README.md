@@ -19,6 +19,6 @@ React, React-bootstrap, JavaScript
 <img src="https://github.com/flavokrkkk/ReactMiniApp/blob/main/scrins/2023-12-26_16-53-44.png">
 
 <h2>Страничка обратной связи, где ппользователи могут посодействовать в разработке этого сайта</h2>
-<img src="https://github.com/flavokrkkk/ReactMiniApp/blob/main/scrins/22023-12-26_16-54-49.png">
+<img src="https://github.com/flavokrkkk/ReactMiniApp/blob/main/scrins/2023-12-26_16-54-49.png">
 
 
