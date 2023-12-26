@@ -1,10 +1,9 @@
 import React from 'react';
+import CarouselBox from '../components/CarouselBox';
 
 const Home = () => {
     return (
-        <div>
-            <h1 style={{marginTop: '100px'}}>Hello Home</h1>
-        </div>
+        <CarouselBox/>
     );
 };
 
