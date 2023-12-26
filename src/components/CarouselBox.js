@@ -1,8 +1,8 @@
 import React from 'react';
 import { Carousel } from 'react-bootstrap';
-import bmwOne from '../assets/Spider-man_28690.jpg'
+import bmwOne from '../assets/maxresdefault.jpg'
 import bmwTwo from '../assets/1c226885feb154f1caf3fd8fde3ef4ef.jpeg'
-import bmwThree from '../assets/scale_1200.jpg'
+import bmwThree from '../assets/01.jpg'
 
 const CarouselBox = () => {
     return (
@@ -10,7 +10,7 @@ const CarouselBox = () => {
             <Carousel.Item>
                     <img
                      className='d-block w-100'
-                     src={bmwOne}
+                     src={bmwThree}
                      alt='Bmw'
                      height='900'
                     />
@@ -39,7 +39,7 @@ const CarouselBox = () => {
             <Carousel.Item>
                     <img
                      className='d-block w-100'
-                     src={bmwThree}
+                     src={bmwOne}
                      alt='Bmw'
                      height='900'
                     />
