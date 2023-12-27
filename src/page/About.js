@@ -1,3 +1,4 @@
+//Компонент Type-bar
 import React from 'react';
 import { Col, Container, Nav, Row } from 'react-bootstrap';
 import { Tab } from 'react-bootstrap';
