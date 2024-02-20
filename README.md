@@ -18,7 +18,7 @@ React, React-bootstrap, JavaScript
 <h2>Страничка Blog, где пользовтели будут делится своими впечатлениями о фильмах и читать посты о премьерах</h2>
 <img src="https://github.com/flavokrkkk/ReactMiniApp/blob/main/scrins/2023-12-26_16-53-44.png">
 
-<h2>Страничка обратной связи, где ппользователи могут посодействовать в разработке этого сайта</h2>
+<h2>Страничка обратной связи, где пользователи могут посодействовать в разработке этого сайта</h2>
 <img src="https://github.com/flavokrkkk/ReactMiniApp/blob/main/scrins/2023-12-26_16-54-49.png">
 
 
